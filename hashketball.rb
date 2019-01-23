@@ -124,6 +124,8 @@ def num_points_scored(player_name)
    end
    end
 end
+def player_by_number(num)
+end
 
 def shoe_size(player_name)
   game_hash.each do |location, team_data|
