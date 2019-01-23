@@ -132,6 +132,7 @@ def player_by_number(num)
     end
   end
 end
+end
 
 player_by_number(33)
 
